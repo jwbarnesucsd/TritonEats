@@ -3,6 +3,7 @@ node_js: node
 
 install:
   cd TritonEats
+  
   yarn add --dev jest
 
 script:
